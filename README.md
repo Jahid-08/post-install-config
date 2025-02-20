@@ -69,10 +69,25 @@ This process helps streamline ticket management and ensures that issues are hand
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/442a90ca-91f9-48ae-b83e-c854f5fa3f65" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we are going to move on to **configuring teams** in **osTicket**.  
+
+Configuring teams allows you to create **flexible groups of agents** who can collaborate on tickets, regardless of their departmental affiliation. This is useful for addressing specific issues or projects that may require expertise from multiple departments.
+
+### Example:
+We’ll create a team called **"Online Banking"** to handle issues related to online banking. This team can include agents from different departments who have the necessary expertise.
+
+### Steps to Configure Teams:
+1. Navigate to **Admin Panel** → **Agents** → **Teams**.
+2. Click **Add New Team**.
+3. Enter **"Online Banking"** as the team name.
+4. Click **Create Team**.
+5. We **won’t add any members/agents** to it yet.
+
+This setup allows for greater flexibility in managing tickets across multiple departments.
+
 </p>
 <br />
 
