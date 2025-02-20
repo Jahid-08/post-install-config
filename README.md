@@ -49,10 +49,22 @@ We are going to create a new role called **"Supreme Admin"** and grant this role
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/eeaadb44-e0b9-4372-a2a0-e5d766b3db78" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we are going to move on to **configuring the departments** in **osTicket**.  
+
+Configuring departments in **osTicket** is about creating a structured and organized system for managing support requests. This ensures that tickets are assigned to the correct teams, performance is tracked, and users receive the right level of service. It's a crucial step in setting up **osTicket** to effectively handle your organization's support needs.
+
+### Steps to Configure Departments:
+1. Navigate to **Admin Panel** → **Agents** → **Departments**.
+2. Click **Add Department**.
+3. Enter **SysAdmins** as the department name.
+4. Click **Save Changes**.
+
+This process helps streamline ticket management and ensures that issues are handled efficiently by the right team.
+
+
 </p>
 <br />
 
