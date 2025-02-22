@@ -92,10 +92,27 @@ This setup allows for greater flexibility in managing tickets across multiple de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/eb312331-d029-4446-9381-9d07020e9f09" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we are going to make sure that a setting is **unchecked** so that end users can submit a ticket **regardless of whether they have a registered account or not**.  
+
+### Steps to Adjust This Setting:
+1. Navigate to **Admin Panel** → **Settings** → **User Settings**.
+2. Locate the option that requires user registration to submit tickets.
+3. **Ensure this setting is unchecked**.
+
+Typically, in **real-world** scenarios, requiring registration is recommended, but for **lab purposes**, we will allow ticket submissions without registration.
+
+### Benefits of Requiring Registered Users:
+- **Security**: Prevents anonymous ticket submissions, reducing spam or malicious activity.
+- **Accountability**: Tracks user activity and ensures responsible use of support resources.
+- **User Tracking & History**: Maintains a history of user interactions for better troubleshooting and personalized support.
+- **Communication**: Makes it easier to update users about ticket status or request additional information.
+- **Reporting & Analytics**: Provides more accurate data to improve support processes.
+
+For this lab, we are **not requiring registration**, but in a production environment, enabling this setting is highly beneficial.
+
 </p>
 <br />
 
