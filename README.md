@@ -117,10 +117,10 @@ For this lab, we are **not requiring registration**, but in a production environ
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/bcde730b-2615-409f-aca8-a4c3c7cec805" />
 </p>
 <p>
-Next, we're going to configure out Agents(workers). To get here we can navigate from Admin Panel -> Agents -> Add New
+Next, we're going to configure our Agents(workers) and set them up with username, password, and permissions. To get here we can navigate from Admin Panel -> Agents -> Add New
 By creating agents in our lab, we're populating our support system with the staff members who would be using it in a real-world scenario, allowing us to fully explore and understand how osTicket functions in a multi-user environment.
 </p>
 <br />
