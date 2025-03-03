@@ -126,10 +126,10 @@ By creating agents in our lab, we're populating our support system with the staf
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/4cc9660c-3912-4002-9cd8-ae7761b75760" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we are going to set up our customers. We are doing this in order to test ticket submission, and test the overall workflow of tickets between customers and employees.
 </p>
 <br />
 
