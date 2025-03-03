@@ -129,7 +129,22 @@ By creating agents in our lab, we're populating our support system with the staf
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/4cc9660c-3912-4002-9cd8-ae7761b75760" />
 </p>
 <p>
-Now, we are going to set up our customers. We are doing this in order to test ticket submission, and test the overall workflow of tickets between customers and employees.
+### Setting Up Customers (End Users)
+
+Now, we are going to **set up our customers** in osTicket. This allows us to **test ticket submission** and the overall workflow between customers and support agents.
+
+### Steps to Add a New Customer:
+1. Navigate to **Agent Panel** → **Users** → **Add User**.
+2. Fill in the required details (Name, Email, Phone, etc.).
+3. Click **Add User** to finalize the setup.
+
+### Why Set Up Customers?
+- **Test Ticket Submission**: Ensures that users can submit tickets and receive support.
+- **Simulate Real-World Scenarios**: Helps understand how customers interact with the help desk.
+- **Validate Workflow**: Confirms that tickets move properly between users and agents.
+
+This step ensures that our help desk system is functioning correctly and ready for real-world use.
+
 </p>
 <br />
 
