@@ -148,10 +148,34 @@ This step ensures that our help desk system is functioning correctly and ready f
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/65c07382-de0e-45c0-a0fd-6e9f81a8b7ac" />
 </p>
 <p>
-Now we are going to configure our SLA's(Service Level Agreement). In osTicket, SLAs are used to define the timeframes within which tickets must be addressed and resolved, based on their priority or the type of issue. They help you manage customer expectations and ensure that support requests are handled in a timely manner. To get here navigate from Admin Panel -> Manage -> SLA
+
+Now, we are going to **configure our SLAs (Service Level Agreements)** in osTicket. SLAs define the **timeframes** in which tickets must be addressed and resolved based on their priority level. This helps manage customer expectations and ensures support requests are handled promptly.
+
+### Steps to Configure SLAs:
+
+1. Navigate to **Admin Panel** → **Manage** → **SLA**.
+2. Click **Add New SLA Plan** to create a new SLA.
+3. Define the following categories:
+   - **Sev-A (Highest Priority)**: Requires **immediate** attention.
+   - **Sev-B (Medium Priority)**: Important but not critical.
+   - **Sev-C (Lower Priority)**: Can be addressed during standard business hours.
+4. Set the **grace period**, which acts as a buffer before the SLA timer starts counting.
+5. Configure the **schedules**:
+   - **Sev-A & Sev-B**: Run **24/7**, meaning they are tracked around the clock.
+   - **Sev-C**: Runs only during **business hours (8 AM - 5 PM)**.
+6. Click **Save Changes** to finalize your SLAs.
+
+### Why Use SLAs?
+
+- **Ensures Timely Responses**: Helps prioritize urgent issues.
+- **Improves Customer Satisfaction**: Customers know when to expect resolutions.
+- **Organizes Ticket Workflow**: Tickets are categorized and managed efficiently.
+
+This setup ensures that the help desk operates smoothly, with clear guidelines on response and resolution times.
+
 </p>
 <br />
 
