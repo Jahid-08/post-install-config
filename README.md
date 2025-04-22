@@ -6,9 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -36,6 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="477" alt="image" src="https://github.com/user-attachments/assets/87ab860e-ac80-412d-abef-65193e8d890f" />
 </p>
 <p>
+ 
 First, we are going to navigate to the **Help Desk Staff login page** via  http://localhost/osTicket/scp/login.php 
  and log in as the admin.  
 
@@ -52,6 +50,7 @@ We are going to create a new role called **"Supreme Admin"** and grant this role
 <img width="483" alt="image" src="https://github.com/user-attachments/assets/eeaadb44-e0b9-4372-a2a0-e5d766b3db78" />
 </p>
 <p>
+ 
 Now, we are going to move on to **configuring the departments** in **osTicket**.  
 
 Configuring departments in **osTicket** is about creating a structured and organized system for managing support requests. This ensures that tickets are assigned to the correct teams, performance is tracked, and users receive the right level of service. It's a crucial step in setting up **osTicket** to effectively handle your organization's support needs.
@@ -72,6 +71,7 @@ This process helps streamline ticket management and ensures that issues are hand
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/442a90ca-91f9-48ae-b83e-c854f5fa3f65" />
 </p>
 <p>
+ 
 Now, we are going to move on to **configuring teams** in **osTicket**.  
 
 Configuring teams allows you to create **flexible groups of agents** who can collaborate on tickets, regardless of their departmental affiliation. This is useful for addressing specific issues or projects that may require expertise from multiple departments.
@@ -95,6 +95,7 @@ This setup allows for greater flexibility in managing tickets across multiple de
 <img width="464" alt="image" src="https://github.com/user-attachments/assets/eb312331-d029-4446-9381-9d07020e9f09" />
 </p>
 <p>
+ 
 Now, we are going to make sure that a setting is **unchecked** so that end users can submit a ticket **regardless of whether they have a registered account or not**.  
 
 ### Steps to Adjust This Setting:
